@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/scss-sea-animation/static/css/main.188312c7.css",
+    "main.js": "/scss-sea-animation/static/js/main.f07c1e2c.js",
+    "static/media/boat.webp": "/scss-sea-animation/static/media/boat.c0a0d9657cfc82ae74df.webp",
+    "static/media/wave-front.png": "/scss-sea-animation/static/media/wave-front.316af52238ef22cee250.png",
+    "static/media/wave-middle.png": "/scss-sea-animation/static/media/wave-middle.3936464ac16e4e0305de.png",
+    "static/media/wave-back.png": "/scss-sea-animation/static/media/wave-back.7062cb4ad70cdf34923b.png",
+    "index.html": "/scss-sea-animation/index.html",
+    "main.188312c7.css.map": "/scss-sea-animation/static/css/main.188312c7.css.map",
+    "main.f07c1e2c.js.map": "/scss-sea-animation/static/js/main.f07c1e2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.188312c7.css",
+    "static/js/main.f07c1e2c.js"
+  ]
+}
